@@ -1,1 +1,1 @@
-# te
+composer require niklasravnsborg/laravel-pdf
